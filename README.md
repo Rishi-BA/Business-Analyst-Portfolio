@@ -1,4 +1,8 @@
-[![Business Analyst Portfolio – Rishikesh Choudhary](GitHub%20Portfolio%20Banner.png)](https://www.linkedin.com/in/rishikesh-choudhary-ba-166100377)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishikesh-choudhary-ba-166100377">
+    <img src="GitHub%20Portfolio%20Banner.png" alt="Business Analyst Portfolio – Rishikesh Choudhary">
+  </a>
+</p>
 
 # 📂 Business Analyst Portfolio – Rishikesh Choudhary
 
