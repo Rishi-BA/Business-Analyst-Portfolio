@@ -1,4 +1,4 @@
-[![Business Analyst Portfolio – Rishikesh Choudhary](Portfolio_Banner.png)](https://www.linkedin.com/in/rishikesh-choudhary-ba-166100377)
+[![Business Analyst Portfolio – Rishikesh Choudhary](GitHub%20Portfolio%20Banner.png)](https://www.linkedin.com/in/rishikesh-choudhary-ba-166100377)
 
 # 📂 Business Analyst Portfolio – Rishikesh Choudhary
 
