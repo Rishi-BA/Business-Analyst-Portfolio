@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/rishikesh-choudhary-ba-166100377">
     <img src="GitHub%20Portfolio%20Banner.png" 
          alt="Business Analyst Portfolio – Rishikesh Choudhary" 
-         style="width: 100%; height: 250px; object-fit: fill;">
+         style="width: 1000px; height: 300px;">
   </a>
 </p>
 
